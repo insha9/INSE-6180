@@ -1,4 +1,10 @@
 # INSE-6180
+made by 
+ASHIQUL HOQUE CHOWDHURY 40228852​
+
+INSHA SINGH 40258129​
+
+KAREEM SHAMAYLEH 40222388 ​
 
 This is project 6180 where we are working with process mining techniques more importantly alpha miner and petri nets. 
 alpha miner is a process mining technique to represent event logs visually in what we call petri nets. 
